@@ -42,4 +42,5 @@
   <constants>Constant.Константа2</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.ПоступлениеТоваров</documents>
 </mdclass:Configuration>
